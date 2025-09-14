@@ -4,7 +4,8 @@
 This repository documents the design and implementation of **X-Treads**, an experimental omnidirectional ground vehicle developed as a team project at IIT Indore.  
 The vehicle uses **four tread modules arranged in an X-configuration** to achieve **eight-directional movement without yaw**, while retaining the robustness of tread-based locomotion on rough terrain.
 
-![image1](Screenshot 2025-09-14 171323-Photoroom.png)
+![image1]("Screenshot 2025-09-14 171323-Photoroom.png")
+
 
 ## Motivation
 Conventional wheeled and tread-based vehicles struggle with:
