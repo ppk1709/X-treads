@@ -15,6 +15,9 @@ Conventional wheeled and tread-based vehicles struggle with:
 
 The X-Treads project explores whether **tread modules arranged in an X-shape** can combine the benefits of **omnidirectional mobility** (like mecanum wheels) with the **terrain adaptability of tracked systems**.
 
+
+![image_2](Tread.png)
+
 ## Objectives
 1. Design an **X-configured tread system** for omnidirectional mobility.  
 2. Develop a **two-level control system** for directional command execution and feedback correction.  
